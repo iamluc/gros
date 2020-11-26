@@ -1,1 +1,1 @@
-gros (Github Release Object Secret)
+gros (Github Release Object Storage)
