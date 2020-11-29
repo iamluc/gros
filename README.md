@@ -6,7 +6,7 @@ Download a file from a Github release in a private repository.
 # Why?
 
 [gh](https://github.com/cli/cli) is better (really), but...
-- There is no build for FreeBSD (`gros` should have one soon ;-))
+- There is no build for FreeBSD
 - Released binaries are zipped, you have to unzip them before using them
 
 # Usage
